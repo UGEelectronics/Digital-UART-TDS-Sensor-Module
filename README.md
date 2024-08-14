@@ -1,5 +1,5 @@
 # Digital-UART-TDS-Sensor-Module
-TDS and Temperature Sensor Module designed by UGE Electronics  <a href="https://www.w3schools.com">Product Link</a>
+TDS and Temperature Sensor Module designed by UGE Electronics  <a href="https://uge-one.com/product/precision-digital-tds-total-dissolved-solids-and-temperature-water-sensor/">Product Link</a>
 ## Features
 
 - Integrated high-precision oscillator, analog-to-digital conversion, and floating-point operation unit.
